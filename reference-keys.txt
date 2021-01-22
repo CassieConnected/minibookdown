@@ -1,2 +1,6 @@
 this-is-an-example-of-how-i-can-create-an-open-text-book-or-other-collection-of-works.
 introduction
+assemblage-1
+assemblage-2
+assemblage-3
+assemblage-4
