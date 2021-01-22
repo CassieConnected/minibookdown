@@ -1,7 +1,7 @@
 # Introduction
 
 This is where I will introduce the work I have been doing as an graduate research assistant for *Apartheid Heritage(s)*. Of course, I will need to introduce *my* trusty research assistant, Byrone "Buster" Bluth.
-![Gratuitous photo of Buster](https://user-images.githubusercontent.com/76963516/105187421-c3eaba80-5b00-11eb-8916-1b1d665adef2.jpg)
+![Gratuitous photo of Buster](202006_Buster_Hotel.jpg)
 
 Primarily, I will discuss my role in rethinking and creating annotations for a digital humanities project that examines contested spacial history by exploring specific places in a 3D model.
 
