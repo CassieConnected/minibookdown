@@ -1,7 +1,7 @@
 #Assemblages
 #### *Organization of the Annotations*
 
-This is practice. There is no real content in this chapter (yet).
+This is just practice. There is no real content in this chapter (yet).
 Now I will add an ordered list.
 1. Assemblage 1
 2. Assemblage 2
